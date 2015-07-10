@@ -1,0 +1,6 @@
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\bin\Debug\ConsoleApplication_file16.exe.config
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\bin\Debug\ConsoleApplication_file16.exe
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\bin\Debug\ConsoleApplication_file16.pdb
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\obj\Debug\ConsoleApplication_file16.csprojResolveAssemblyReference.cache
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\obj\Debug\ConsoleApplication_file16.exe
+E:\vs_code\ConsoleApplication_file16\ConsoleApplication_file16\obj\Debug\ConsoleApplication_file16.pdb
